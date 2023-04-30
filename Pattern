@@ -1,4 +1,4 @@
-  //  Bow Pattern( by Mr. Paitandy_Ji)-->
+  //  Bow Pattern( by Sourav Paitandy)-->
         for(int i=1;i<=n;i++){
           int space=n-i;
           for(int j=i;j<=space;j++){
